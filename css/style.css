@@ -3,9 +3,15 @@ img {
 }
 
 .intro {
+  float: left;
+  background-color: pink;
+  padding: 10px;
+}
+
+h2.center {
   text-align: center;
 }
 
-.center {
+.lecture {
   text-align: center;
 }
